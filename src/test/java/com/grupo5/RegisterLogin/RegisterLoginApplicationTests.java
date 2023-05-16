@@ -9,5 +9,4 @@ class RegisterLoginApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
